@@ -1,0 +1,20 @@
+.container{
+    text-align: center;
+}
+.text-gt{
+    font-size: 24px;
+    font-weight: bold;
+    color: coral;
+}
+.col-sm-4 p{
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+}
+.bg-nd{
+    text-align: left;
+}
+.bg-nd p{
+    font-size: 18px;
+    font-weight: normal;
+}

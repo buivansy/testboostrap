@@ -1,0 +1,17 @@
+.text-td{
+    font-size: 25px;
+    color: coral;
+}
+.text-bg{
+    font-size: 30px;
+    color: black;
+    font-weight: 800;
+}
+.text-vnd{
+    color: darkgrey;
+}
+.text-vnd-number{
+    font-size: 30px;
+    color: darkgrey;
+
+}

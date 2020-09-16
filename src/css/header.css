@@ -1,0 +1,24 @@
+.bg-logo{
+    padding: 10px;
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+}
+.text-logo{
+    color: #FF6600;
+    /* font-family: Arial; */
+    margin:auto;
+    font-size: large;
+    margin-left: 10px;
+}
+.text-color{
+    color: black;
+}
+.btn-login{
+    background-color: #FF6600;
+    float: right;
+}
+.nav-item button{
+    font-weight: bold;
+    color: #555555;
+}

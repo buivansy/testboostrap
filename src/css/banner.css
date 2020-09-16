@@ -1,0 +1,24 @@
+.col-banner{
+    padding: 20px;
+}
+.text-gt{
+    font-weight: 800;
+    font-size: 32px;
+}
+.text-nd{
+    color: #333333;
+    font-weight: 500;
+    font-size: 18px;
+}
+.btn-lu{
+    font-weight: 500;
+    background-color: coral;
+    width: 200px;
+}
+.bg-video{
+    padding: 20px;
+}
+/* .modal{
+    width: 1000px;
+    height:600px
+} */
